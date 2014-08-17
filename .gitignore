@@ -1,0 +1,5 @@
+var/cache/*
+var/session/*
+*.gif
+*.jpg
+*.png
